@@ -1,0 +1,3 @@
+# Node Send - Backend
+
+Project that simulates the functionality of the old Firefox Send site. It allows you to upload files to the cloud and share them through links for download. Initially, if you don't have an account, it only allows you to upload 1 MB files, but if you create an account, you can upload files up to 20 MB. Also, you can set how many downloads a file can receive before being deleted (if you have an account. Default is maximum one download), and once a file consumes its download limit, it is completely deleted from the server.
